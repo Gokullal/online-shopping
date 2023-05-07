@@ -1,3 +1,5 @@
+The source code has been taken from https://github.com/PuneethReddyHC/online-shopping-system and bugs are found and fixed.
+
 Modified header.php for changing the currency
 
 Added new column in product table name product_offer_price
